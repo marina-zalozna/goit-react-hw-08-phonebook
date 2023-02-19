@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/415.5aeb50db.chunk.js","mappings":"0LAAe,SAASA,IAEvB,C","sources":["pages/Home.jsx"],"sourcesContent":["export default function HomePage () {\n    <h1>Welcome to Phonebook App</h1>;\n} \n"],"names":["HomePage"],"sourceRoot":""}
