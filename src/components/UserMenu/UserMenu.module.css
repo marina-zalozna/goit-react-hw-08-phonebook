@@ -1,0 +1,9 @@
+.UserMenu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .UserMenu p {
+    font-weight: 700;
+    margin-right: 8px;
+  }
